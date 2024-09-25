@@ -6,6 +6,8 @@ Not all things are implemented, only those I needed, that means, setting/getting
 
 Feel free to take the code from `src/ahmcon/ahm.py` and build on it. There is a `example()` function that you can check out.
 
+> [!NOTE]  
+> I wrote this code so you don't have to. That – however – does not mean I am willing to invest a lot of time into answering support questions of why something isn't working for your specific installation. PRs that improve the capabilities/coverage/performance or help keeping up with new API versions are welcome tho.
 
 ## Example
 
